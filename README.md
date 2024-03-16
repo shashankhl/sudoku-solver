@@ -2,7 +2,7 @@
 
 A Sudoku solver is a program or algorithm designed to automatically solve Sudoku puzzles, which are logic-based number-placement puzzles. The solver typically takes an unsolved Sudoku grid as input and produces a solved grid as output.
 
-Click here for a <a target="_blank" href=""> DEMO </a>
+Click here for a <a target="_blank" href="https://shashankhl.github.io/sudoku-solver/"> DEMO </a>
 
 <img src="thumbnail.PNG" alt="img" width="100%">
 
@@ -11,7 +11,7 @@ Click here for a <a target="_blank" href=""> DEMO </a>
 Clone the repository
 
 ```
-$ git clone
+$ git clone https://github.com/shashankhl/sudoku-solver.git
 ```
 
 ```
